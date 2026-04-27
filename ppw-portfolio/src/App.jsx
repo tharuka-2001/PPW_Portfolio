@@ -118,9 +118,9 @@ function App() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 1 }}
             >
-              <p className="text-blue-700 font-semibold mb-3">
+              {/* <p className="text-blue-700 font-semibold mb-3">
                 IT4070 Preparation for Professional World
-              </p>
+              </p> */}
 
               <h1 className="text-5xl md:text-6xl font-extrabold text-[#0f172a] mb-4">
                 Tharuka Dilshan Oberathna
